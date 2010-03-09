@@ -1,0 +1,9 @@
+## Interface: 30300
+## Author: Caellian, Recluse
+## Title: recNameplates
+## Notes: Custom minimalistic nameplates
+## Version: $Id: recNameplates.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recMedia, recLib
+
+Flash.lua
+core.lua
